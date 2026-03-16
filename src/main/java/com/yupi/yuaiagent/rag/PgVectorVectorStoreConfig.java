@@ -17,7 +17,7 @@ import static org.springframework.ai.vectorstore.pgvector.PgVectorStore.PgIndexT
 /**
  * PGVector 向量数据库配置
  */
-@Configuration
+//@Configuration
 public class PgVectorVectorStoreConfig {
 
     @Resource
